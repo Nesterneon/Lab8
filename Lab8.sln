@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8", "Lab8\Lab8.csproj", "{8DCFF4A8-B155-435D-A25C-610308D7F2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReader_Writer", "StreamReader_Writer\StreamReader_Writer.csproj", "{B23EC6C7-61E7-4580-8842-C937F8C31682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCFF4A8-B155-435D-A25C-610308D7F2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCFF4A8-B155-435D-A25C-610308D7F2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCFF4A8-B155-435D-A25C-610308D7F2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCFF4A8-B155-435D-A25C-610308D7F2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23EC6C7-61E7-4580-8842-C937F8C31682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23EC6C7-61E7-4580-8842-C937F8C31682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23EC6C7-61E7-4580-8842-C937F8C31682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23EC6C7-61E7-4580-8842-C937F8C31682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E5C65B-8952-4608-8AC3-7EEF484F082F}
+	EndGlobalSection
+EndGlobal
